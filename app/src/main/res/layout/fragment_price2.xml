@@ -14,6 +14,6 @@
         android:textSize="30sp"
         android:textColor="@color/white"
         android:textStyle="bold"
-        android:text="Toan Junior"/>
+        android:text="89"/>
 
 </FrameLayout>
